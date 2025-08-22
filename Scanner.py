@@ -1,7 +1,6 @@
 import socket
 import sys
 
-# --- Basic Port Scanner ---
 # Usage: python scanner.py <target_ip>
 
 # Check for correct number of arguments
