@@ -14,4 +14,3 @@ A simple and fast port scanner built with Python to check for open ports on a ta
 ## Technologies Used
 - Python
 - socket (Python standard library)
-- 
